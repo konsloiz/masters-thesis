@@ -8,7 +8,7 @@ singleuser:
   defaultUrl: "/lab"
   extraEnv:
     KF_PIPELINES_ENDPOINT: http://ml-pipeline-ui.kubeflow:80
-    KUBECONFIG: /tmp/config
+   #KUBECONFIG: /tmp/config
 hub:
   extraConfig: 
     ipaddress: |
