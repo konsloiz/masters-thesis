@@ -60,7 +60,7 @@ RUN pip3 install jupyterlab-git==0.24.0
 RUN pip install nbgitpuller 
 RUN jupyter lab build
 
-COPY /.kube/config /tmp
+# COPY /.kube/config /tmp
 
 USER ${NB_UID}
 WORKDIR "${HOME}"
