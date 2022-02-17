@@ -1,4 +1,4 @@
-# Redesign of Professional Machine Learning Platform based on an Open-Source and Kubernetes-Native MLOps Pipeline to reduce the ML-Systems Technical Debt
+# Redesign of Professional Machine Learning Platform Based on an Open-Source and Kubernetes-Native MLOps Pipeline to Reduce the ML-Systems Technical Debt
 
 A masters thesis for the HFT Stuttgart, Software Technology MSc, in cooperation with Mercedes Benz AG.
 
